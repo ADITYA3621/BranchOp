@@ -1,2 +1,2 @@
 # BranchOp
-This is BranchOp repositry
+This is BranchOp repository
